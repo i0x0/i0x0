@@ -1,3 +1,29 @@
-[![TheHackerCoding's github stats](https://github-readme-stats.vercel.app/api?username=thehackercoding)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehackercoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![TheHackerCoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thehackercoding)](https://github.com/anuraghazra/github-readme-stats)
+# 👋
+
+# Languages I Know / I'm learning / want to learn 
+
+* Javascript (more experience in it) + (i know React)
+* Typescript (Javascript but with a few extra steps to it that I have to learn)
+* HTML
+* CSS
+* SCSS (i like using brackets rather than spaces **cough** SASS **cough** **cough**)
+* PHP (eh so-so)
+* Dart (i don't know Flutter but the actual language itself)
+* Nim (trying to learn)
+* Haxe (i've tested the waters)
+* D (seems very interesting)
+* Rust & Go (i've been forced to look at it by Reddit, memes, and the increasing amount of GitHub repos that have used it)
+* Perl (alternative to bash?) + (might not do)
+* C# (MonoGame/Unity opportunities?)
+* Python (apparently its becoming the industry standard so I have to learn it even if using spaces gives me anxiety)
+* Scala (seems like a better alternative to Java, a language im trying to avoid at all costs)
+
+# My thoughts / opinions
+ `I like terminals over gui (sometimes)`
+ `I should really learn some more programming languages`
+ `sudo apt install is better than using .exe`
+ `Can someone ever truely know CSS as a language?`
+ `Is Rust that good?`
+ `More people should try to learn Linux`
+ `Why am I learning C# when I'm not even using Windows where it's better supported?`
+
