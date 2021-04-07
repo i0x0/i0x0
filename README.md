@@ -1,4 +1,4 @@
-# 👋
+# 👋 Helwo
 
 # Languages I Know / I'm learning / want to learn 
 
@@ -8,14 +8,14 @@
 * CSS
 * SCSS (i like using brackets rather than spaces **cough** SASS **cough** **cough**)
 * PHP (eh so-so)
-* Dart (i don't know Flutter but the actual language itself)
+* Dart (i don't really know Flutter but the actual language itself)
 * Nim (trying to learn)
 * Haxe (i've tested the waters)
 * D (seems very interesting)
 * Rust & Go (i've been forced to look at it by Reddit, memes, and the increasing amount of GitHub repos that have used it)
 * Perl (alternative to bash?) + (might not do)
-* C# (MonoGame/Unity opportunities?)
-* Python (apparently its becoming the industry standard so I have to learn it even if using spaces gives me anxiety)
+* C# (MonoGame/Unity/Windows opportunities?)
+* Python (apparently its becoming the industry standard so I have to learn it even if using spaces instead of brackets gives me anxiety)
 * Scala (seems like a better alternative to Java, a language im trying to avoid at all costs)
 
 # My thoughts / opinions
@@ -26,4 +26,8 @@
  `Is Rust that good?`
  `More people should try to learn Linux`
  `Why am I learning C# when I'm not even using Windows where it's better supported?`
+ 
+ # Contact
+ 
+ [Email](mailto:thehackercoding@gmail.com) | Discord: TheHackerCoding#0720
 
