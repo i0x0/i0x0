@@ -1,6 +1,6 @@
 # 👋 Helwo
 
-# Languages I Know / I'm learning / want to learn 
+# Languages I know / learning / want to learn 
 
 * Javascript (more experience in it) + (i know React)
 * Typescript (Javascript but with a few extra steps to it that I have to learn)
