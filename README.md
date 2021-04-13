@@ -7,6 +7,7 @@
 * HTML
 * CSS
 * SCSS (i like using brackets rather than spaces **cough** SASS **cough** **cough**)
+* Svelte (after watching [this](https://www.youtube.com/watch?v=rv3Yq-B8qp4), I kinda wanna learn it based on how easy and simple it looks compared to React)
 * PHP (eh so-so)
 * Dart (i don't really know Flutter but the actual language itself)
 * Nim (trying to learn)
