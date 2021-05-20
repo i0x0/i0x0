@@ -1,5 +1,5 @@
 # 👋 Helwo
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=thehackercoding&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 # Languages I know / learning / want to learn 
 
 * Javascript (more experience in it) + (i know React)
@@ -31,5 +31,5 @@
  # Contact
  
  [Email](mailto:thehackercoding@gmail.com) | Discord: TheHackerCoding#0720
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
