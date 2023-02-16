@@ -22,6 +22,6 @@ I'm a teen developer working on random projects ~~that I'll probably abandon the
  
  # Contact
  
- [Email](mailto:thehackercoding@gmail.com) | Discord: TheHackerCoding#0720
+ [Email](mailto:thehackercoding@gmail.com) | Discord: 0x0#1368
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/196252989076275200)](https://discord.com/users/196252989076275200)
