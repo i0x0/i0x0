@@ -1,6 +1,6 @@
-# 👋 Helwo
+# 👋 Yo!
 
-I'm a teen developer working on random projects ~~that I'll probably abandon the next week~~
+I'm a developer working on random projects ~~that I'll probably abandon the next week~~
 
 # Things I Know
 
@@ -11,17 +11,7 @@ I'm a teen developer working on random projects ~~that I'll probably abandon the
   </a>
 </p>
 
-# My thoughts / opinions
- `I like terminals over gui (sometimes)`
- `I should really learn some more programming languages`
- `sudo apt install is better than using .exe`
- `Can someone ever truely know CSS as a language?`
- `Is Rust that good?`
- `More people should try to learn Linux`
- `Why am I learning C# when I'm not even using Windows where it's better supported?`
- 
- # Contact
- 
- [Email](mailto:thehackercoding@gmail.com) | Discord: 0x0#1368
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/196252989076275200)](https://discord.com/users/196252989076275200)
+<hr>
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/196252989076275200" />
+</p>
